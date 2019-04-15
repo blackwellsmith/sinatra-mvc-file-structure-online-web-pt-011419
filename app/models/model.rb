@@ -4,7 +4,7 @@ class Dog
   
   @@dogs = []
   
-  def initialize(breed, age, name)
+  def initialize(breed, name, name)
     @breed = breed
     @age = age
     @name = name
